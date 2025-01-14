@@ -25,7 +25,7 @@ This is the frontend for the ChatApp. It allows users to join a chat room, send 
     ```bash
     npm start
     ```
-    The frontend will be available at `http://localhost:3000`.
+    The frontend will be available at `http://localhost:3003`.
 
 4. **Ensure WebSocket server is running:**
     The WebSocket server should be running at `http://localhost:8080/ws` for real-time messaging functionality.
